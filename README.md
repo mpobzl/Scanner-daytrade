@@ -2,11 +2,12 @@
 
 ## 🎯 Objective
 
+A fully automated decision-support system that replaces manual analysis with scalable, data-driven insights.
 Develop an end-to-end decision system capable of identifying short-term trading opportunities using data, statistical modeling, and automation.
 
 ## 🚀 Overview
 
-This project automates the analysis of 100+ stocks daily, transforming raw market data into actionable trading insights.
+This system automates the analysis of 100+ stocks daily, transforming raw market data into actionable trading insights.
 
 The system replaces a manual, time-consuming process with a scalable and repeatable pipeline that supports fast and data-driven decision-making.
 
@@ -24,7 +25,7 @@ Data Source → Data Processing (Python) → Statistical Modeling → Automated 
 
 ## 📈 Business Impact
 
-* Reduced analysis time from hours to seconds
+* Reduced manual analysis from hours to seconds, enabling faster and more consistent decision-making in a high-frequency environment
 * Enabled consistent, data-driven decisions
 * Scalable analysis across 100+ assets daily
 * Created a repeatable and automated decision workflow
